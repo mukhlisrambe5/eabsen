@@ -1,0 +1,650 @@
+WARNING - 2023-06-15 06:28:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:28:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:28:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:28:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:28:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:28:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:28:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:28:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:28:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:28:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:28:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:28:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:28:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Auth::$ModelAuth is deprecated in APPPATH\Controllers\Auth.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:28:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-15 06:28:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:28:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:28:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:28:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:35:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:35:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:35:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:35:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:35:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:35:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:36:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:36:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:36:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:36:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:36:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:36:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:37:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:37:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:43:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:43:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:45:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:45:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:45:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:45:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:45:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:45:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:46:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:46:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:47:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:47:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:47:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:47:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:48:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:48:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:48:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:48:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:48:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:48:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:49:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:49:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:49:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:49:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:49:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:49:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:49:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:49:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:49:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:49:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:49:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:49:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:50:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:50:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:50:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:50:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:50:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:50:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:50:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:50:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:50:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:50:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:55:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:55:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:56:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:56:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:56:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-15 06:56:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:56:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:56:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:56:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 06:56:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-15 06:56:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 06:56:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:01:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Jabatan::$ModelJabatan is deprecated in APPPATH\Controllers\Jabatan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Jabatan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:01:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:01:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:04:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:04:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:05:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:05:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-15 07:05:46 --> Undefined array key "foto"
+in APPPATH\Views\backend\v_karyawan.php on line 43.
+ 1 APPPATH\Views\backend\v_karyawan.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "foto"', 'C:\\xampp\\htdocs\\eabsen\\app\\Views\\backend\\v_karyawan.php', 43)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\eabsen\\app\\Views\\backend\\v_karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/v_karyawan', [], true)
+ 5 APPPATH\Views\v_template_back.php(254): view('backend/v_karyawan')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\eabsen\\app\\Views\\v_template_back.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('v_template_back', [], true)
+ 9 APPPATH\Controllers\Karyawan.php(23): view('v_template_back', [...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:06:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:06:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:06:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:06:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:08:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:08:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:08:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:08:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:09:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:09:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:10:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:10:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:11:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:11:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-15 07:11:42 --> Undefined variable $jabatan
+in APPPATH\Views\backend\v_karyawan.php on line 93.
+ 1 APPPATH\Views\backend\v_karyawan.php(93): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jabatan', 'C:\\xampp\\htdocs\\eabsen\\app\\Views\\backend\\v_karyawan.php', 93)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\eabsen\\app\\Views\\backend\\v_karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/v_karyawan', [], true)
+ 5 APPPATH\Views\v_template_back.php(254): view('backend/v_karyawan')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\eabsen\\app\\Views\\v_template_back.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('v_template_back', [], true)
+ 9 APPPATH\Controllers\Karyawan.php(23): view('v_template_back', [...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:11:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:16:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:16:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:16:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:17:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:17:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:17:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:17:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:17:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:17:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:18:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:18:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:18:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:18:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:18:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:18:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:28:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:28:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:28:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:29:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:29:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:29:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:33:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:33:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:33:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:33:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:33:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:33:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:33:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:33:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:33:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:34:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:34:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:34:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:34:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:34:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:34:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:34:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:34:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:34:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:36:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:36:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:36:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:36:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:36:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:36:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:38:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:38:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:38:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:39:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:39:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:39:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:40:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:40:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:40:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:41:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:41:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:41:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:46:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:46:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:46:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:46:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:46:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:46:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-15 07:46:35 --> Undefined property: CodeIgniter\HTTP\Files\UploadedFile::$getErrors
+in APPPATH\Controllers\Karyawan.php on line 51.
+ 1 APPPATH\Controllers\Karyawan.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\HTTP\\Files\\UploadedFile::$getErrors', 'C:\\xampp\\htdocs\\eabsen\\app\\Controllers\\Karyawan.php', 51)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->updateData('1')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:47:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:47:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:47:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:47:10 --> [DEPRECATED] sha1(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\Karyawan.php on line 58.
+ 1 APPPATH\Controllers\Karyawan.php(58): sha1(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->updateData('1')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:47:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:47:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:47:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:47:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:47:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:47:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:47:50 --> [DEPRECATED] sha1(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\Karyawan.php on line 69.
+ 1 APPPATH\Controllers\Karyawan.php(69): sha1(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->updateData('1')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-15 07:47:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-15 07:47:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelKaryawan is deprecated in APPPATH\Controllers\Karyawan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-15 07:47:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Karyawan::$ModelJabatan is deprecated in APPPATH\Controllers\Karyawan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Karyawan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(68): CodeIgniter\CodeIgniter->run()
