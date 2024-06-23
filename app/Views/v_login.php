@@ -11,12 +11,12 @@
     <title>E-Absensi | Login</title>
     <meta name="description" content="Mobilekit HTML Mobile UI Kit">
     <meta name="keywords" content="bootstrap 4, mobile template, cordova, phonegap, mobile, html" />
-    <link rel="stylesheet" href="<?=base_url('public/front')?>/assets/css/inc/bootstrap/bootstrap.min.css" />
-    <link rel="stylesheet" href="<?=base_url('public/front')?>/assets/css/inc/owl-carousel/owl.carousel.min.css" />
-    <link rel="stylesheet" href="<?=base_url('public/front')?>/assets/css/inc/owl-carousel/owl.theme.default.css" />
+    <link rel="stylesheet" href="<?= base_url('front') ?>/assets/css/inc/bootstrap/bootstrap.min.css" />
+    <link rel="stylesheet" href="<?= base_url('front') ?>/assets/css/inc/owl-carousel/owl.carousel.min.css" />
+    <link rel="stylesheet" href="<?= base_url('front') ?>/assets/css/inc/owl-carousel/owl.theme.default.css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:400,500,700&display=swap" />
-    <link rel="stylesheet" href="<?=base_url('public/front')?>/assets/fontawesome-free/css/all.min.css" />
-    <link rel="stylesheet" href="<?=base_url('public/front')?>/assets/css/style.css" />
+    <link rel="stylesheet" href="<?= base_url('front') ?>/assets/fontawesome-free/css/all.min.css" />
+    <link rel="stylesheet" href="<?= base_url('front') ?>/assets/css/style.css" />
 
 </head>
 
@@ -34,29 +34,31 @@
 
         <div class="login-form mt-1">
             <div class="section">
-                <img src="<?=base_url('public/login.png')?>" alt="image" class="form-image">
+                <img src="<?= base_url('login.png') ?>" alt="image" class="form-image">
             </div>
             <div class="section mt-1">
                 <?php
-                    $errors = validation_errors();
-                    if(session()->get('pesan')){
-                        echo "<div class='alert alert-danger'>";
-                        echo session()->get('pesan');
-                        echo "</div>";
-                    }
+                $errors = validation_errors();
+                if (session()->get('pesan')) {
+                    echo "<div class='alert alert-danger'>";
+                    echo session()->get('pesan');
+                    echo "</div>";
+                }
                 ?>
                 <h1>E-Absensi</h1>
                 <h4>Silahkan Login</h4>
             </div>
             <div class="section mt-1 mb-5">
-                
-                <?=form_open('Auth/cekLoginKaryawan')?>
+
+                <?= form_open('Auth/cekLoginKaryawan') ?>
                 <div class="form-group boxed">
                     <div class="input-wrapper">
                         <input type="text" class="form-control" name="username" placeholder="Username">
                         <i class="fas fa-times-circle clear-input"></i>
                     </div>
-                    <p class="text text-danger"><?=isset($errors['username']) == isset($errors['username']) ? validation_show_error('username') : '' ?></p>
+                    <p class="text text-danger">
+                        <?= isset($errors['username']) == isset($errors['username']) ? validation_show_error('username') : '' ?>
+                    </p>
 
                 </div>
 
@@ -65,22 +67,24 @@
                         <input type="password" class="form-control" name="password" placeholder="Password">
                         <i class="fas fa-times-circle clear-input"></i>
                     </div>
-                    <p class="text text-danger"><?=isset($errors['password']) == isset($errors['password']) ? validation_show_error('password') : '' ?></p>
+                    <p class="text text-danger">
+                        <?= isset($errors['password']) == isset($errors['password']) ? validation_show_error('password') : '' ?>
+                    </p>
 
                 </div>
 
-                <div class="form-links mt-2">
+                <!-- <div class="form-links mt-2">
                     <div>
                         <a href="page-register.html">Register Now</a>
                     </div>
                     <div><a href="page-forgot-password.html" class="text-muted">Forgot Password?</a></div>
-                </div>
+                </div> -->
 
                 <div class="form-button-group">
                     <button type="submit" class="btn btn-primary btn-block btn-lg">Log in</button>
                 </div>
 
-                <?=form_close()?>
+                <?= form_close() ?>
             </div>
         </div>
 
@@ -92,18 +96,18 @@
 
     <!-- ///////////// Js Files ////////////////////  -->
     <!-- Jquery -->
-    <script src="<?=base_url('public/front')?>/assets/js/lib/jquery-3.4.1.min.js"></script>
+    <script src="<?= base_url('front') ?>/assets/js/lib/jquery-3.4.1.min.js"></script>
     <!-- Bootstrap-->
-    <script src="<?=base_url('public/front')?>/assets/js/lib/popper.min.js"></script>
-    <script src="<?=base_url('public/front')?>/assets/js/lib/bootstrap.min.js"></script>
+    <script src="<?= base_url('front') ?>/assets/js/lib/popper.min.js"></script>
+    <script src="<?= base_url('front') ?>/assets/js/lib/bootstrap.min.js"></script>
 
     <!-- Owl Carousel -->
-    <script src="<?=base_url('public/front')?>/assets/js/plugins/owl-carousel/owl.carousel.min.js"></script>
+    <script src="<?= base_url('front') ?>/assets/js/plugins/owl-carousel/owl.carousel.min.js"></script>
     <!-- jQuery Circle Progress -->
-    <script src="<?=base_url('public/front')?>/assets/js/plugins/jquery-circle-progress/circle-progress.min.js"></script>
+    <script src="<?= base_url('front') ?>/assets/js/plugins/jquery-circle-progress/circle-progress.min.js"></script>
 
     <!-- Base Js File -->
-    <script src="<?=base_url('public/front')?>/assets/js/base.js"></script>
+    <script src="<?= base_url('front') ?>/assets/js/base.js"></script>
 
 
 </body>
